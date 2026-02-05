@@ -1,4 +1,4 @@
-👋 Hi, I’m @Jesse-Powers, not my real name
+👋 Hi, I’m @Jesse-Powers, not my real name <br>
 👀 Full stack developer + Python web scraping + MCP Workflow automation + Pentesting
 💻 I've been coding for 20 years. I love my current tech stack.
 📄 I like big dataset, Python, Pandas and Jupyter.
