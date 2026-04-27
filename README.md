@@ -1,5 +1,5 @@
 👋 Hi, I’m @Jesse-Powers, not my real name  
-👀 Full stack developer + Python web scraping + MCP Workflow automation + Pentesting  
+👀 Full stack developer + Python web scraping + Agentic Workflow automation + Pentesting  
 💻 I've been coding for 20 years. I love my current tech stack ( Next.js - React - TypeScript - PostgreSQL - Prisma)      
 📄 I like big dataset, Python, Pandas and Jupyter.  
 🌱 I’m currently learning Workflow automation with Ai agents  
